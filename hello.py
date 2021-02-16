@@ -4,3 +4,4 @@
 def sum():
 """comment"""
 	pass
+exit(0)
