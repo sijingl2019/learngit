@@ -5,3 +5,5 @@ create a new branch it is quick & simple
 branch dev line
 branch dev another line
 fixed issue 01
+dev 1
+dev 2
